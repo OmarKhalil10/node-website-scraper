@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "website-scraper": "^5.3.1",
+    "website-scraper-puppeteer": "^1.0.0"
+  },
+  "type": "module",
+  "main": "main.mjs"
+}
