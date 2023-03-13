@@ -17,7 +17,7 @@ npm .
 To get started with contributing to this project, you'll need to follow these steps:
 
 1. Fork this repository to your own GitHub account.
-2. Clone the forked repository to your local machine using git clone https://github.com/your-username/[Your Project Name].git.
+2. Clone the forked repository to your local machine using git clone https://github.com/OmarKhalil10/node-website-scraper.git
 3. Create a new branch using git checkout -b new-branch-name.
 4. Make your changes and commit them with a descriptive message.
 5. Push your changes to your forked repository using git push origin new-branch-name.
